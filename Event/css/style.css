@@ -1,0 +1,19 @@
+#mainform{
+	padding: 20px;
+/*width: 650px;*/
+margin: 0 auto;
+}
+.input-group,select{
+
+width: 150px;
+}
+#type_count_day{
+display: none;}
+
+
+.tbl{
+/*height: 600px;*/
+}
+.custompad{
+padding: 20px;
+}
